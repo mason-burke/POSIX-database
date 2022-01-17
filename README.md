@@ -2,7 +2,7 @@
 
 ## overview
 
-This was my last project for my course "Introduction to Computer Systems." The goal of this project is to have a thread-safe BST database that can interact with client threads.
+This was my last project for my course "Introduction to Computer Systems." The goal of this project was to have a thread-safe BST database that can interact with client threads. This was implemented using the POSIX thread architecture.
 
 ## structure
 
